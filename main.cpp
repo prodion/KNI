@@ -12,7 +12,7 @@ int main()
         std::cout<<"zamykam okno"<<std::endl;
     }
 
-    std::cout<<"Juz zamkniete"<<std::endl;
+    std::cout<<"Juz zamkniete"<<std::endl;//haha
 
 
 
